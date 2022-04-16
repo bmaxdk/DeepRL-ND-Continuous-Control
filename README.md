@@ -1,6 +1,6 @@
 # DeepRL-ND-Continuous-Control
 
-start from DDPG implementation
+start from DDPG implementation done
 
 
 ### Arguments
