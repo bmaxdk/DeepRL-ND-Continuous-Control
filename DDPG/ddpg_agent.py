@@ -58,7 +58,7 @@ class Agent():
         # Save experience / reward
         # collect multiple agent to learn
         for state, action, reward, next_state, done in zip(states, actions, rewards, next_states, dones):
-                self.memory.add(state, action, reward, next_state, done)
+            self.memory.add(state, action, reward, next_state, done)
 
         # Learn, if enough samples are available in memory
         if len(self.memory) > BATCH_SIZE and t%num_learn == 0:
