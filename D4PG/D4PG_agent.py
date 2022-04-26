@@ -60,7 +60,6 @@ class Agent():
 
         # Replay memory
         self.memory = ReplayBuffer(action_size, BUFFER_SIZE, BATCH_SIZE, random_seed)
-        # self.critic_loss_f = nn.BCELoss(reduction='none')
     
     def step(self, states, actions, rewards, next_states, dones, t, num_learn):
         """Save experience in replay memory, and use random sample from buffer to learn."""
@@ -123,7 +122,6 @@ class Agent():
         # Minimize the loss
         self.critic_optimizer.zero_grad()
         critic_loss.backward()
-        # torch.nn.utils.clip_grad_norm_(self.critic_local.parameters(), 1)
         self.critic_optimizer.step()
         
         # ---------------------------- update actor ---------------------------- #
