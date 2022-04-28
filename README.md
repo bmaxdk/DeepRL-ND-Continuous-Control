@@ -32,7 +32,7 @@ cd DeepRL-ND-Continuous-Control
 ```
 
 ### Select Option for Algorithms:
-#### (Option DDPG)
+#### Option1: Deep Deterministic Policy Gradient (DDPG)
 * Follow the instructions in [`Continuous_Control_final.ipynb`](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/DDPG/Continuous_Control_final.ipynb) to train and run the agent!
 ```
 cd DDPG
@@ -40,7 +40,7 @@ cd DDPG
 Use jupyter notebook to open [`Continuous_Control_final.ipynb`](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/DDPG/Continuous_Control_final.ipynb)
 
 
-#### (Option D4PG)
+#### Option2: Distributed Distributional Deterministic Policy Gradients (D4PG)
 * Follow the instructions in [`Continuous_Control_final.ipynb`](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/D4PG/Continuous_Control_final.ipynb) to train and run the agent!
 ```
 cd D4PG
