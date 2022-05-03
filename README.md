@@ -1,8 +1,18 @@
 # DeepRL-ND-Continuous-Control
+![Trained Agent][image1]
 
 ## Project 2: Continuous Control
 
+
+[//]: # (Image References)
+
+[image1]: https://user-images.githubusercontent.com/10624937/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif "Trained Agent"
+
 ### Introduction
+
+For this project, you will work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
+
+
 
 For this project, Work with the Reacher environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible. For multi-agnets it contains 20 identical agents, each with its own copy of the environment.
 
