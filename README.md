@@ -33,7 +33,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 ## Instructions
 
 ```
-git clone https://github.com/bmaxdk//DeepRL-ND-Continuous-Control.git
+git clone https://github.com/bmaxdk/DeepRL-ND-Continuous-Control.git
 cd DeepRL-ND-Continuous-Control
 ```
 
