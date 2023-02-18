@@ -32,23 +32,23 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ## Instructions
 
-```
-git clone https://github.com/bmaxdk/DeepRL-ND-Continuous-Control.git
-cd DeepRL-ND-Continuous-Control
+```bash
+$ git clone https://github.com/bmaxdk/DeepRL-ND-Continuous-Control.git
+$ cd DeepRL-ND-Continuous-Control
 ```
 
 ### Select Option for Algorithms:
 #### Option1: Deep Deterministic Policy Gradient (DDPG)
 * Follow the instructions in [`Continuous_Control_final.ipynb`](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/DDPG/Continuous_Control_final.ipynb) to train and run the agent!
-```
-cd DDPG
+```bash
+$ cd DDPG
 ```
 Use jupyter notebook to open [`Continuous_Control_final.ipynb`](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/DDPG/Continuous_Control_final.ipynb)
 
 
 #### Option2: Distributed Distributional Deterministic Policy Gradients (D4PG)
 * Follow the instructions in [`Continuous_Control_final.ipynb`](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/D4PG/Continuous_Control_final.ipynb) to train and run the agent!
-```
-cd D4PG
+```bash
+$ cd D4PG
 ```
 Use jupyter notebook to open [`Continuous_Control_final.ipynb`](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/D4PG/Continuous_Control_final.ipynb)
