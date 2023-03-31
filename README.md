@@ -2,6 +2,7 @@
 ![Trained Agent][image1]
 
 ## Project 2: Continuous Control
+## [Report](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/Report.pdf)
 
 
 [//]: # (Image References)
