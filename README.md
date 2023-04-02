@@ -1,4 +1,22 @@
 # DeepRL-ND-Continuous-Control
+My code from scratch:
+
+DDPG Algorithm
+
+[Continuous_Control_final.ipynb](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/DDPG/Continuous_Control_final.ipynb)
+
+[ddpg_agent.py](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/DDPG/ddpg_agent.py)
+
+[model.py](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/DDPG/model.py)
+
+D4PG Algorithm
+
+[Continuous_Control_final.ipynb](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/D4PG/Continuous_Control_final.ipynb)
+
+[D4PG_agent.py](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/D4PG/D4PG_agent.py)
+
+[model.py](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/D4PG/model.py)
+
 ![Trained Agent][image1]
 
 ## Project 2: Continuous Control
