@@ -1,7 +1,7 @@
 # DeepRL-ND-Continuous-Control
 My code from scratch:
 
-DDPG Algorithm
+`DDPG Algorithm`:
 
 [Continuous_Control_final.ipynb](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/DDPG/Continuous_Control_final.ipynb)
 
@@ -9,7 +9,7 @@ DDPG Algorithm
 
 [model.py](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/DDPG/model.py)
 
-D4PG Algorithm
+`D4PG Algorithm`:
 
 [Continuous_Control_final.ipynb](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/D4PG/Continuous_Control_final.ipynb)
 
