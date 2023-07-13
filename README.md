@@ -1,4 +1,5 @@
-# DeepRL-ND-Continuous-Control
+<h1 align="center">DeepRL-ND-Continuous-Control</h1>
+
 ## [Report](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/Report.pdf)
 
 ## My code from scratch:
